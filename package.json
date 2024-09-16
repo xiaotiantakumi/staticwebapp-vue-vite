@@ -13,17 +13,17 @@
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src"
   },
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.7.7",
     "vue": "^3.2.26",
     "vue-router": "^4.0.12",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
-    "@azure/static-web-apps-cli": "^0.8.2",
+    "@azure/static-web-apps-cli": "^2.0.1",
     "@vitejs/plugin-vue": "^2.0.1",
     "eslint-plugin-vue": "^8.2.0",
     "npm-run-all": "^4.1.5",
-    "vite": "^2.7.3"
+    "vite": "^2.9.18"
   },
   "eslintConfig": {
     "root": true,
